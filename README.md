@@ -9,3 +9,5 @@
 3. fkmeans.r file contains the basic steps for running fuzzy k-means clustering algorithm
 4. nofkmeans.r file contains the normalized version of fuzzy k-means clustering algorithm
 5. time.r file contains the basic steps needed to calculate the time taken by a particular algorithm to fetch results
+
+Associated Research Paper: [Proficient Normalised Fuzzy K-Means with Initial Centroids Methodology](https://www.igi-global.com/article/proficient-normalised-fuzzy-k-means-with-initial-centroids-methodology/202363)
